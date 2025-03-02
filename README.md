@@ -21,7 +21,7 @@ python3 --version
 
 ### **Clone the Repository**
 ```bash
-git clone https://github.com/your-username/file_monitor_1.git
+https://github.com/itzTron/File-Change-Monitor.git
 cd file_monitor_1.py
 ```
 
