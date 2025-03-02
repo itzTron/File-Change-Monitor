@@ -29,6 +29,10 @@ cd file_monitor_1.py
 
 ## Usage
 
+## Give permission:
+```bash
+chmod +x file_monitor_1.py
+```
 ### **1. Running the Script with Command-Line Arguments**
 Run the script and specify the files you want to monitor:
 ```bash
