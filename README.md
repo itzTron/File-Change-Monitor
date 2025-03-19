@@ -38,6 +38,7 @@ Run the script and specify the files you want to monitor:
 ```bash
 python3 file_monitor_1.py /path/to/file1 /path/to/file2
 ```
+## Example Image
 Example:
 ```bash
 python3 file_monitor_1.py /home/user/document.txt /var/log/syslog
