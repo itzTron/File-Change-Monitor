@@ -38,7 +38,8 @@ Run the script and specify the files you want to monitor:
 ```bash
 python3 file_monitor_1.py /path/to/file1 /path/to/file2
 ```
-## Example Image
+## Example Image:
+![Image](https://github.com/user-attachments/assets/b03dedcf-6c47-458b-87ac-b0decb8617c1)
 Example:
 ```bash
 python3 file_monitor_1.py /home/user/document.txt /var/log/syslog
@@ -54,7 +55,8 @@ It will prompt you to enter file paths:
 Enter file names to monitor (comma-separated):
 /home/user/document.txt, /var/log/syslog
 ```
-
+## Example Image:
+![Image](https://github.com/user-attachments/assets/67f21168-3123-4c78-b056-bd6493da28ba)
 ---
 
 ## Stopping the Script
